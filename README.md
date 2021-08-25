@@ -1,4 +1,2 @@
 # TiPA
-Tissue Process Activity (TiPA) scoring method. 
-Input: Fold change (FC) data per tissue and genes assocaited to biological processes. 
-Output: TiPA scores matrix of processes in tissues. 
+Tissue Process Activity (TiPA) scoring method. Input: A matrix containing fold-change (FC) data per gene (row) tissue (column); A list of gene ontology (GO) processes and their associated genes. Output: TiPA scores matrix per process (row) and tissue (column).
