@@ -1,18 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 25 08:54:19 2021
-
 @author: moran
 """
-
-
-'''
-1. read FC file
-2. read process file
-3. TiPA function
-4. create matrix + GO term2 name function
-'''
-
 import csv
 import numpy as np
 import pandas as pd
